@@ -4,6 +4,7 @@ This project is a case study focused on analyzing Amazon product data using Exce
 It covers data cleaning, transformation, KPI tracking, and building a user-friendly dashboard.
 ## 📊 Project Overview
 - **Objective**: Extract business insights from Amazon product listings
+- **Data Source**: DSA Incubator Hub
 - **Tools Used**:
  Microsoft Excel [download here (https://www.bing.com/ck/a?!&&p=3be3a7d9b7545c36998561f40585d1fe802077e5125e81c5954ca1bc50ed9896JmltdHM9MTc1MTUwMDgwMA&ptn=3&ver=2&hsh=4&fclid=37f17ace-9fdd-67aa-0cad-6b079ecf6628&psq=microsoft+excel+download+link&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtMzY1L2Rvd25sb2FkLW9mZmljZT9tc29ja2lkPTM3ZjE3YWNlOWZkZDY3YWEwY2FkNmIwNzllY2Y2NjI4&ntb=1]
 - - for data cleaning
