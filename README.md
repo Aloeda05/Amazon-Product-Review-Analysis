@@ -49,7 +49,7 @@ Amazon-Case-Study/
 - Most Reviewed Product
 
 ## ✅ Dashboard Preview
-  ![image](https://github.com/user-attachments/assets/1a4eb056-8bf8-431f-8840-e5de0fa86b49)
+  ![image](https://github.com/user-attachments/assets/1a4eb056-8bf8-431f-8840-e5de0fa86b49
 ![image](https://github.com/user-attachments/assets/1a9cfb1c-9954-4463-b02c-1126e86893bb)
 
 
