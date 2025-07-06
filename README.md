@@ -1,6 +1,6 @@
 # 🛍️ Amazon Product Analysis Dashboard
 PROJECT WITH DIGITAL SKILLUP AFRICA
-This project is a case study focused on analyzing Amazon product data using Excel. 
+An Excel-based data analysis and dashboard project focused on Amazon product listings. The analysis answers key business questions related to pricing, discount strategy, product ratings, and customer behavior, using pivot tables, calculated columns, and Excel 
 It covers data cleaning, transformation, KPI tracking, and building a user-friendly dashboard.
 ## 📊 Project Overview
 - **Objective**: Extract business insights from Amazon product listings
@@ -9,7 +9,7 @@ It covers data cleaning, transformation, KPI tracking, and building a user-frien
  Microsoft Excel [download here (https://www.bing.com/ck/a?!&&p=3be3a7d9b7545c36998561f40585d1fe802077e5125e81c5954ca1bc50ed9896JmltdHM9MTc1MTUwMDgwMA&ptn=3&ver=2&hsh=4&fclid=37f17ace-9fdd-67aa-0cad-6b079ecf6628&psq=microsoft+excel+download+link&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtMzY1L2Rvd25sb2FkLW9mZmljZT9tc29ja2lkPTM3ZjE3YWNlOWZkZDY3YWEwY2FkNmIwNzllY2Y2NjI4&ntb=1]
 - - for data cleaning
   - - data manipulation
-  - To input calculated Column,
+  -- To input calculated Column,
   - Pivot Tables for analysis,
   - Conditional Formatting
 - **Deliverables**:
@@ -17,10 +17,21 @@ It covers data cleaning, transformation, KPI tracking, and building a user-frien
   - Business insights & KPIs
   - Interactive dashboard
 ## 🗂️ Folder Structure
-Amazon-Case-Study/
-  Raw and cleaned Excel data
-  visuals/ # Dashboard screenshots
-  README.md # Project documentation
+Amazon-Product-Analysis/
+│
+├── data/
+│   └── amazon_cleaned_data.xlsx
+│
+├── dashboards/
+│   └── Amazon_Dashboard_Final.xlsx
+│
+├── images/
+│   └── dashboard_overview.png
+│
+├── docs/
+│   └── Business_Insights_Summary.docx
+│
+└── README.md
 
 ## 📌 Key Questions Answered
 
@@ -49,9 +60,28 @@ Amazon-Case-Study/
 - Most Reviewed Product
 
 ## ✅ Dashboard Preview
-  ![image](https://github.com/user-attachments/assets/1a4eb056-8bf8-431f-8840-e5de0fa86b49
-![image](https://github.com/user-attachments/assets/1a9cfb1c-9954-4463-b02c-1126e86893bb)
+     ![image](https://github.com/user-attachments/assets/d5bb5c1c-283b-47a5-bcbf-efd34eccdb47)
+     ![image](https://github.com/user-attachments/assets/0aba623e-a860-4dc6-abb9-4514a5fdf364)
 
+
+     ![Dashboard Screenshot](dashboard.png)
+
+##💡 Business Insights Summary
+- Total Products  1349
+- Total number of Reviews   23801431
+- Products ≥ 50% off discount  661!
+- Total Revenue   32018303.73
+- price range •	Products priced above ₹500 generate the highest revenue  849
+![image](https://github.com/user-attachments/assets/ddb42bd0-4acf-47e7-907e-df50fa2f53c1)
+
+
+|Insight Area	|    Key Takeaway|	     Recommendation
+|:------------|:---------------|:-------------------
+|🔢 Category Performance|	Electronics has highest reviews and revenue|	Focus ads on Electronics & Computers.
+|🔻 Discount Strategy|	49% of products have ≥50% discount| Optimize discounts to protect revenue.
+| Ratings & Reviews| 	Avg rating: 4.0–4.4; few perfect scores|	Promote top-rated products in ads.
+|Pricing & Revenue	Products | > ₹500 drive most revenue | Prioritize high-value SKUs.
+| Customer Engagement	| Majority of products are well-reviewed|	Build loyalty programs around bestsellers.
 
 ## 🧠 Learnings & Takeaways
 
